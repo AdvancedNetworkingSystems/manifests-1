@@ -16,6 +16,7 @@
 ./agent_modules/simple
 ./agent_modules/iperf
 ./agent_modules/wifi
+./agent_modules/wifi-poprow
 ./agent_modules/wifi_ath
 ./agent_modules/ni_sdr
 ./agent_modules/rs_signal_gen
