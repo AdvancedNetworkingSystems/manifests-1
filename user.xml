@@ -18,7 +18,7 @@
 
 
   <!-- Core -->
-  <project name="wishful_upis" path="upis" remote="ans"/>
+  <project name="wishful_upis.git" path="upis" remote="ans"/>
   <project name="framework" path="framework"/>
   <project name="controller" path="controller"/>
   <project name="agent" path="agent"/>
@@ -39,8 +39,8 @@
   <project name="module_rules" path="agent_modules/rules"/>
   <project name="module_simple" path="agent_modules/simple"/>
   <project name="module_iperf" path="agent_modules/iperf"/>
-  <project name="module_wifi-wishful" path="agent_modules/wifi" remote="ans"/>
-  <project name="module-wifi-poprow" path="agent_modules/wifi-poprow" remote="ans"/>
+  <project name="module_wifi-wishful.git" path="agent_modules/wifi" remote="ans"/>
+  <project name="module-wifi-poprow.git" path="agent_modules/wifi-poprow" remote="ans"/>
   <project name="module_wifi_ath" path="agent_modules/wifi_ath"/>
   <project name="module_wifi_wmp" path="agent_modules/wifi_wmp"/>
   <project name="module_ni_sdr" path="agent_modules/ni_sdr"/>
