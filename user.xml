@@ -46,7 +46,7 @@
   <project name="module_ni_sdr" path="agent_modules/ni_sdr"/>
   <project name="module_rs_signal_gen" path="agent_modules/rs_signal_gen"/>
   <project name="module_robot" path="agent_modules/robot"/>
-  <project name="module_net_linux" path="agent_modules/net_linux"/>
+  <project name="module_net_linux.git" path="agent_modules/net_linux" remote="ans"/>
   <project name="module_gnuradio" path="agent_modules/gnuradio"/>
   <project name="module_spectral_scan_ath9k" path="agent_modules/spectral_scan_ath9k"/>
   <project name="module_contiki" path="agent_modules/contiki"/>
