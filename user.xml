@@ -20,8 +20,8 @@
   <!-- Core -->
   <project name="wishful_upis.git" path="upis" remote="ans"/>
   <project name="framework" path="framework"/>
-  <project name="controller" path="controller"/>
-  <project name="agent" path="agent"/>
+  <project name="controller.git" path="controller" remote="ans"/>
+  <project name="agent.git" path="agent" remote="ans"/>
   <!-- Libs -->
   <project name="stream_pipe" path="libs/stream_pipe"/>
   <project name="pyre" path="libs/pyre"/>
