@@ -17,7 +17,7 @@ User Installation
 
 4. Get manifest files:
 
-        python2 ./repo init -u https://ans.disi.unitn.it/redmine/manifests-wishful.git
+        python2 ./repo init -u https://github.com/AdvancedNetworkingSystems/manifests-wishful
 
 5. Configure user-only manifest file:
 

@@ -7,7 +7,7 @@
            fetch="https://github.com/" />
 
   <remote  name="ans"
-           fetch="https://ans.disi.unitn.it/redmine/" />
+           fetch="https://github.com/AdvancedNetworkingSystems/" />
 
   <remote  name="wirelesstestbedacademy"
            fetch="https://github.com/WirelessTestbedsAcademy/" />
@@ -18,10 +18,10 @@
 
 
   <!-- Core -->
-  <project name="wishful_upis.git" path="upis" remote="ans"/>
+  <project name="wishful_upis" path="upis" remote="ans"/>
   <project name="framework" path="framework"/>
-  <project name="controller.git" path="controller" remote="ans"/>
-  <project name="agent.git" path="agent" remote="ans"/>
+  <project name="controller" path="controller" remote="ans"/>
+  <project name="agent" path="agent" remote="ans"/>
   <!-- Libs -->
   <project name="stream_pipe" path="libs/stream_pipe"/>
   <project name="pyre" path="libs/pyre"/>
@@ -39,14 +39,14 @@
   <project name="module_rules" path="agent_modules/rules"/>
   <project name="module_simple" path="agent_modules/simple"/>
   <project name="module_iperf" path="agent_modules/iperf"/>
-  <project name="module_wifi-wishful.git" path="agent_modules/wifi" remote="ans"/>
-  <project name="module-wifi-poprow.git" path="agent_modules/wifi-poprow" remote="ans"/>
+  <project name="module_wifi-wishful" path="agent_modules/wifi" remote="ans"/>
+  <project name="module-wifi-poprow" path="agent_modules/wifi-poprow" remote="ans"/>
   <project name="module_wifi_ath" path="agent_modules/wifi_ath"/>
   <project name="module_wifi_wmp" path="agent_modules/wifi_wmp"/>
   <project name="module_ni_sdr" path="agent_modules/ni_sdr"/>
   <project name="module_rs_signal_gen" path="agent_modules/rs_signal_gen"/>
   <project name="module_robot" path="agent_modules/robot"/>
-  <project name="module_net_linux.git" path="agent_modules/net_linux" remote="ans"/>
+  <project name="module_net_linux" path="agent_modules/net_linux" remote="ans"/>
   <project name="module_gnuradio" path="agent_modules/gnuradio"/>
   <project name="module_spectral_scan_ath9k" path="agent_modules/spectral_scan_ath9k"/>
   <project name="module_contiki" path="agent_modules/contiki"/>
