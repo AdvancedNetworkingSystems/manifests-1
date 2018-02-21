@@ -1,4 +1,3 @@
-./libs/stream_pipe
 ./libs/scapy-python3
 ./libs/pyre
 ./libs/python-tc
